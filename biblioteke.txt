@@ -1,0 +1,8 @@
+Dio projektnog zadatka koji se sastojao od provedbe algoritama na našim podacima, tj. naš kod, radili smo u programskom jeziku Python u Jupyter Notebook-u koristeæi Anaconda okruženje.
+Anaconda - verzija 1.9.7, Python 3.6.
+Biblioteke koje smo koristili:
+pandas	
+numpy	
+matplotlib		
+seaborn	
+sklearn
